@@ -1,7 +1,7 @@
 # connect4-group
 
 #Collaboraters
-::Akhil Kammalan Kandy-211ADb034::Samay Kochhar-211ADB013::Aditya Jadhav-211ADB005::Sawan Rithaliya-201ADB078
+::Akhil Kammalan Kandy-211ADB034::Samay Kochhar-211ADB013::Aditya Jadhav-211ADB005::Sawan Rithaliya-201ADB078
 
 
 This is the repository for our group project.
