@@ -7,9 +7,7 @@
 ::Sawan Rithaliya-201ADB078
 
 
-This is the repository for our group project.
-The game we have decided to make is connect4
-  
+Connect4 game using SFML library. 
 
 
   
